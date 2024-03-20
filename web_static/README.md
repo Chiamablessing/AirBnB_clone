@@ -1,5 +1,6 @@
 # 0x01. AirBnB clone - Web static
-Learning Objectives:
+
+## Learning Objectives:
 At the end of the project i was able to learn
 
 What is HTML
@@ -15,31 +16,45 @@ What is a class
 What is a selector
 How to compute CSS Specificity Value
 What are Box properties in CSS
-* Inline styling
+
+* **Inline styling**
 Write an HTML page that displays a header and a footer.
-* Head styling
+
+* **Head styling**
 Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html)
-* CSS files
+
+* **CSS files**
 Write an HTML page that displays a header and a footer by using CSS files (same as 1-index.html)
-* Zoning done!
+
+* **Zoning done!**
 Write an HTML page that displays a header and footer by using CSS files (same as 2-index.html)
-* Search!
+
+* **Search!**
 Write an HTML page that displays a header, footer and a filters box with a search button.
-* More filters
+
+* **More filters**
 Write an HTML page that displays a header, footer and a filters box.
-* It's (h)over
+
+* **It's (h)over**
 Write an HTML page that displays a header, footer and a filters box with dropdown.
-* Display results
+
+* **Display results**
 Write an HTML page that displays a header, footer, a filters box with dropdown and results.
-* More details
+
+* **More details**
 Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
-* Full details
+
+* **Full details**
 Write an HTML page that displays a header, footer, a filters box with dropdown and results.
-* Flex
+
+* **Flex**
 Improve the Places section by using Flexible boxes for all Place articles
-* Responsive design
+
+* **Responsive design**
 Improve the page by adding responsive design to display correctly in mobile or small screens.
-* Accessibility
+
+* **Accessibility**
 Improve the page by adding Accessibility support
-Author
+
+### Author
 Chiamaka Emeti- [Chiamablessing](https://github.com/Chiamablessing/AirBnB_clone)
